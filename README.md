@@ -51,9 +51,9 @@ The following points were the objective of the project . If you are looking for 
 <!-- <img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">(https://github.com/scikit-learn/) -->
 ![UI](scikit.png)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application" width=170>
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application" width=170>
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application" width=170>
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/heroku.png" width=170>
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/numpy.png" width=170>
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/pandas.jpeg" width=170>
 <!-- ![UI](scikit.png)
 ![UI](flask.jpg)
 ![UI](heroku.png)
