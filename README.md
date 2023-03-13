@@ -50,10 +50,10 @@ The following points were the objective of the project . If you are looking for 
 
 <!-- <img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/scikit.png" width=150"> -->
 ![UI](scikit.png)
-<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=150">
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/heroku.png" width=150">
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/numpy.png" width=150">
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/pandas.jpeg" width=150"> 
+<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170">
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/heroku.png" width=170">
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/numpy.png" width=170">
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/pandas.jpeg" width=170"> 
 <!-- ![UI](scikit.png)
 ![UI](flask.jpg)
 ![UI](heroku.png)
