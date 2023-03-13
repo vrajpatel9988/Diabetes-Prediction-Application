@@ -48,7 +48,7 @@ The following points were the objective of the project . If you are looking for 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/scikit.png">
+<img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/scikit.png" width=170>
 <!-- ![UI](scikit.png) -->
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
 <img target="_blank" src="https://github.com/vrajpatel9988/Diabetes-Prediction-Application/blob/main/heroku.png" width=170>
